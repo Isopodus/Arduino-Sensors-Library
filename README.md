@@ -8,3 +8,5 @@ The following sensors are included:
 3. LM35 Temperature sensor;
 4. MPU6050 Gyroscope and accelerometer (Written by Jeff Rowberg);
 5. DHT Temperature and humidity sensor (Written by Adafruit Industries).
+
+<p></p>
