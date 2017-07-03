@@ -9,4 +9,4 @@ The following sensors are included:
 4. MPU6050 Gyroscope and accelerometer (Written by Jeff Rowberg);
 5. DHT Temperature and humidity sensor (Written by Adafruit Industries).
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](harammin@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]()
