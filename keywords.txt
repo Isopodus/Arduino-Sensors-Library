@@ -1,6 +1,0 @@
-WaterSensor	KEYWORD 1
-HCSR04		KEYWORD 1
-LM35		KEYWORD 1
-getValue	KEYWORD 2
-getDistance	KEYWORD 2
-getTemperature	KEYWORD 2
